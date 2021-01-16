@@ -1,2 +1,8 @@
 # kilo
-Text editor written in C. Follow along from [blog](https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html)
+Text editor written in C. Follow along from [blog](https://viewsourcecode.org/snaptoken/kilo/index.html).  
+
+## Run Program  
+
+```bash  
+make && ./kilo
+```
